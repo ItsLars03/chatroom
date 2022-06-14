@@ -62,6 +62,7 @@ body {
     display: flex;
     flex-direction: column;
     margin-bottom: 10px;
+    position: relative;
 }
 
 .fomr form .field input {
@@ -81,6 +82,18 @@ body {
 .form form .image input {
     font-size: 17px;
 }
+
+
+.form form .field i{
+    position: absolute;
+    right: 15px;
+    color: #ccc;
+    top: 70%;
+    transform: translateY(-50%);
+    cursor: pointer;
+
+}
+
 
 .form form .button input {
     margin-top: 13px;
