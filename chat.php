@@ -20,7 +20,7 @@
                 <span>Gerbuiker</span>
                 <p>Active now</p>
             </div>
-            <a href="login.html" class="logout">Logout</a>
+            <a href="#" class="logout">Logout</a>
         </header>
         <div class="search">
             <span class="text">Select a user to start a conversation with</span>   

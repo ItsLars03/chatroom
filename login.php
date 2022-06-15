@@ -17,14 +17,6 @@
                 <div class="error-txt">This is an error message!</div>
                     <div class="name-details">
                         <div class="field input">
-                            <label>First Name</label>
-                            <input type="text" placeholder="First Name">
-                        </div>
-                        <div class="field input">
-                            <label>Last Name</label>
-                            <input type="text" placeholder="Last Name">
-                        </div>
-                        <div class="field input">
                             <label>Email Adress</label>
                             <input type="text" placeholder="Enter your email">
                         </div>
@@ -41,7 +33,7 @@
                             <input type="submit" value="Continue to Chat">
                         </div>
                     </div>
-                    <div class="link">Already signed up? <a href="login.html">Login now</a></div>
+                    <div class="link">Not yet sigend up? <a href="index.html">Signup now</a></div>
                 </div>
                 
             </form>
@@ -50,7 +42,6 @@
     </div>
 
     <script src="Javascript/pass-show-hide.js"></script>
-
 
 </body>
 </html>

@@ -91,7 +91,13 @@ body {
     top: 70%;
     transform: translateY(-50%);
     cursor: pointer;
+}
 
+
+.form form .field i.active::before {
+    color: #333;
+    content: "\f070";
+    
 }
 
 
