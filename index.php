@@ -11,7 +11,7 @@
 </head>
 <body>
     <div class="wrapper">
-        <section class="form sigunp">
+        <section class="form signup">
             <header>Chattry</header> 
             <form action="#">
                 <div class="error-txt">This is an error message!</div>
@@ -40,16 +40,18 @@
                         <div class="field button">
                             <input type="submit" value="Continue to Chat">
                         </div>
+                        </form>
                     </div>
                     <div class="link">Already signed up? <a href="login.php">Login now</a></div>
                 </div>
                 
-            </form>
+            
                    
         </section>
     </div>
 
     <script src="Javascript/pass-show-hide.js"></script>
+    <script src="Javascript/sign.js"></script>
 
 
 </body>
