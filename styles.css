@@ -156,3 +156,31 @@ body {
     font-size: 18px;
     font-weight: 500;
 }
+.users header .logout{
+    color: #fff;
+    background-color: #333;
+    padding: 7px 15px;
+    font-size: 17px;
+    border-radius: 3px;
+}
+.users .search{
+    margin: 20px 0;
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: space-between;
+}
+.users .search input{
+    position: absolute;
+    height: 42px;
+    width: calc(100% - 50px);
+    border: 1px solid;
+    padding: 0 13px;
+    font-size: 16px;
+    border-radius: 3px;
+    outline: none;
+}
+.users .search button{
+    width: 47px;
+    height: 42px;
+}
