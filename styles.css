@@ -183,4 +183,10 @@ body {
 .users .search button{
     width: 47px;
     height: 42px;
+    border: none;
+    color: #fff;
+    background: #333;
+    cursor: pointer;
+    font-size: 17px;
+    border-radius: 0 5px 5px 0;
 }
