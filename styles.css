@@ -145,5 +145,8 @@ body {
 }
 .users header .details{
     margin-left: 15px;
-
+}
+.users header .details span{
+    font-size: 18px;
+    font-weight: 500;
 }
