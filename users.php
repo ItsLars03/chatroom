@@ -15,7 +15,7 @@
 
         <header>
             <div class="content">
-            <img src="#" alt="">
+            <img src="Image/profile.png" alt="">
             <div class="details"></div>
                 <span>Gerbuiker</span>
                 <p>Active now</p>
