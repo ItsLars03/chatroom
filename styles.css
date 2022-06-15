@@ -131,7 +131,8 @@ body {
 .users{
     padding: 25px 30px
 }
-.users header{
+.users header,
+.users-list a{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -189,4 +190,10 @@ body {
     cursor: pointer;
     font-size: 17px;
     border-radius: 0 5px 5px 0;
+}
+.users-list{
+
+}
+.users-list a{
+    
 }
