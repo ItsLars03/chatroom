@@ -136,12 +136,13 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-bottom: 1px solid #e6e6e6;
+ 
     padding-bottom: 20px ;
 }
 .users header .content img{
    height: 50px;
     width: 50px;
+    
 }
 .users header .content{
     display: flex;
@@ -159,7 +160,7 @@ body {
 
 color: red;
 position: absolute;
-margin-top: 30px;
+margin-top: 60px;
 margin-right: 0vh;
 
 }
