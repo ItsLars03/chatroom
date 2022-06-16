@@ -149,13 +149,25 @@ body {
 .wrapper img{
     object-fit: cover;
     border-radius: 50%;
+    position: relative;
 }
 .users header .details{
     margin-left: 15px;
 }
+
+.status1 {
+
+color: red;
+position: absolute;
+margin-top: 30px;
+margin-right: 0vh;
+
+}
+
 .users header .details span{
     font-size: 18px;
     font-weight: 500;
+    position: relative;
 }
 .users header .logout{
     color: #fff;
