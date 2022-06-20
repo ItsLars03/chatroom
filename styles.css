@@ -167,16 +167,15 @@ body {
 .users header .details{
     margin-left: 15px;
 }
-
 .status1 {
-
 color: red;
 position: absolute;
 margin-top: 60px;
 margin-right: 0vh;
-
 }
-
+.details p{
+    color: green;
+}
 .users header .details span{
     font-size: 18px;
     font-weight: 500;

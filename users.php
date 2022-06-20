@@ -17,7 +17,7 @@
             <img src="profile.png" alt="">
             <div class="details">
                 <span>Gerbuiker</span>
-                <p>Active now</p>
+                <p>Active</p>
             </div>
             </div>  
             <a href="login.php" class="logout">Logout</a>
@@ -32,7 +32,7 @@
                 <div class="content">
                     <img src="" alt="">
                     <div class="details">
-                    <span>User</span>
+                    <span>User 1</span>
                     <p>This is a test message</p>
                     </div>
                 </div>
@@ -44,7 +44,7 @@
                     <div class="content">
                         <img src="" alt="">
                         <div class="details">
-                        <span>User</span>
+                        <span>User 2</span>
                         <p>This is a test message</p>
                         </div>
                     </div>
@@ -57,7 +57,7 @@
                     <div class="content">
                         <img src="" alt="">
                         <div class="details">
-                        <span>User</span>
+                        <span>User 3</span>
                         <p>This is a test message</p>
                         </div>
                     </div>
@@ -70,7 +70,7 @@
                     <div class="content">
                         <img src="" alt="">
                         <div class="details">
-                        <span>User</span>
+                        <span>User 4</span>
                         <p>This is a test message</p>
                         </div>
                     </div>
