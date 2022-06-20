@@ -129,12 +129,27 @@ body {
 .users{
     padding: 25px 30px
 }
+.users-list{
+    max-height: 350px;
+    overflow-y: auto;
+
+}
+.users-list a .content p{
+    color: #3d3d3d;
+}
+.users-list a .content span{
+    color: black;
+}
 .users header,
 .users-list a{
+    margin-bottom: 15px;
+    page-break-after: 10px;
+    padding-right: 15px;
+    border-bottom-color: #f1f1f1;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-bottom: 20px ;
+    padding-bottom: 20px;
 }
 .users header .content img{
    height: 50px;
@@ -201,8 +216,9 @@ margin-right: 0vh;
     font-size: 17px;
     border-radius: 0 5px 5px 0;
 }
-.users-list{
+span{
+    font-weight: bold;
 }
-.users-list a{
-    
+i.fas.fa-circle{
+    color: green;
 }

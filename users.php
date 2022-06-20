@@ -38,6 +38,7 @@
                 </div>
                 <div class="status-dot"><i class="fas fa-circle"></i></div>
             </a>
+            <hr>
             <div class="div-users-list">
                 <a href="#">
                     <div class="content">
@@ -49,6 +50,7 @@
                     </div>
                     <div class="status-dot"><i class="fas fa-circle"></i></div>
                 </a>
+                <hr>
             </div>
             <div class="div-users-list">
                 <a href="#">
@@ -61,6 +63,7 @@
                     </div>
                     <div class="status-dot"><i class="fas fa-circle"></i></div>
                 </a>
+                <hr>
             </div>
             <div class="div-users-list">
                 <a href="#">
@@ -73,6 +76,7 @@
                     </div>
                     <div class="status-dot"><i class="fas fa-circle"></i></div>
                 </a>
+                <hr>
             </div>
         </div>
     </section>
