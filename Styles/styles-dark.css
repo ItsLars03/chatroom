@@ -6133,6 +6133,7 @@ body {
   border-radius: 5px;
   margin-bottom: 10px;
   border: 1px solid rgb(94, 23, 30);
+  display: none;
 }
 .form form .field label {
   margin-bottom: 2px;
