@@ -28,7 +28,7 @@
                             $tmp_name = $_FILES['image']['tmp_name'];  
                         
                           //  $new_img_name = $time.$img_name;
-                            if(move_uploaded_file($tmp_name,"images/".$new_img_name + ".png")){
+                            if(move_uploaded_file($tmp_name,"images/".$new_img_name)){
                                 $ran_id = rand(time(), 100000000);
                                 $status = "Active now";
                                 $encrypt_pass = md5($password);
