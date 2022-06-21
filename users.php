@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles-light.css">
     <title>Chattry</title>
 </head>
 <body>
@@ -17,7 +17,7 @@
             <img src="profile.png" alt="">
             <div class="details">
                 <span>Gerbuiker</span>
-                <p>Active now</p>
+                <p>Active</p>
             </div>
             </div>  
             <a href="login.php" class="logout">Logout</a>
@@ -32,47 +32,51 @@
                 <div class="content">
                     <img src="" alt="">
                     <div class="details">
-                    <span>User</span>
+                    <span>User 1</span>
                     <p>This is a test message</p>
                     </div>
                 </div>
                 <div class="status-dot"><i class="fas fa-circle"></i></div>
             </a>
+            <hr>
             <div class="div-users-list">
                 <a href="#">
                     <div class="content">
                         <img src="" alt="">
                         <div class="details">
-                        <span>User</span>
+                        <span>User 2</span>
                         <p>This is a test message</p>
                         </div>
                     </div>
                     <div class="status-dot"><i class="fas fa-circle"></i></div>
                 </a>
+                <hr>
             </div>
             <div class="div-users-list">
                 <a href="#">
                     <div class="content">
                         <img src="" alt="">
                         <div class="details">
-                        <span>User</span>
+                        <span>User 3</span>
                         <p>This is a test message</p>
                         </div>
                     </div>
                     <div class="status-dot"><i class="fas fa-circle"></i></div>
                 </a>
+                <hr>
             </div>
             <div class="div-users-list">
                 <a href="#">
                     <div class="content">
                         <img src="" alt="">
                         <div class="details">
-                        <span>User</span>
+                        <span>User 4</span>
                         <p>This is a test message</p>
                         </div>
                     </div>
                     <div class="status-dot"><i class="fas fa-circle"></i></div>
                 </a>
+                <hr>
             </div>
         </div>
     </section>
