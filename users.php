@@ -11,18 +11,17 @@ if(!isset($_SESSION['unique_id'])){
         <section class="users">
         <header>
         <?php
-        include dat
-            include_once "php/config.php"
+            include_once "php/config.php";
             $sql = mysqli_query($conn, "SELECT * FROM users WHERE unique_id = {$_SESSION['unique_id']}");
             if(mysqli_num_rows($sql) > 0){
                 $row = mysqli_fetch_assoc($sql);
             }
         ?>
             <div class="content">
-            <img src="profile.png" alt="">
+            <img src="php/images/<?php echo $row['img'] ?>" alt="">
             <div class="details">
-                <span><?php echo $row['fname']?></span>
-                <p>Active</p>
+                <span><?php echo $row['fname'] ." ". $row['lname']?></span>
+                <p><?php echo $row['status']?></p>
             </div>
             </div>  
             <a href="login.php" class="logout">Logout</a>
