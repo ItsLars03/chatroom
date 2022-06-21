@@ -12,7 +12,6 @@
             <hr>
             <a href="#">
             <div class="content">
-                <img src="php/images/'. $row['img'] .'" alt="">
                 <div class="details">
                 <span>'. $row['fname'] ." ". $row['lname'] .'</span>
                 <p>This is a test message</p>
@@ -24,3 +23,5 @@
     }
     echo $output;
 ?>
+
+<!-- <img src="php/images/'. $row['img'] .'" alt=""> -->
