@@ -33,56 +33,7 @@ if(!isset($_SESSION['unique_id'])){
              <button><i class="fas fa-search"></i></button>
         </div>
         <div class="users-list">
-            <a href="#">
-                <div class="content">
-                    <img src="" alt="">
-                    <div class="details">
-                    <span>User 1</span>
-                    <p>This is a test message</p>
-                    </div>
-                </div>
-                <div class="status-dot"><i class="fas fa-circle"></i></div>
-            </a>
-            <hr>
-            <div class="div-users-list">
-                <a href="#">
-                    <div class="content">
-                        <img src="" alt="">
-                        <div class="details">
-                        <span>User 2</span>
-                        <p>This is a test message</p>
-                        </div>
-                    </div>
-                    <div class="status-dot"><i class="fas fa-circle"></i></div>
-                </a>
-                <hr>
-            </div>
-            <div class="div-users-list">
-                <a href="#">
-                    <div class="content">
-                        <img src="" alt="">
-                        <div class="details">
-                        <span>User 3</span>
-                        <p>This is a test message</p>
-                        </div>
-                    </div>
-                    <div class="status-dot"><i class="fas fa-circle"></i></div>
-                </a>
-                <hr>
-            </div>
-            <div class="div-users-list">
-                <a href="#">
-                    <div class="content">
-                        <img src="" alt="">
-                        <div class="details">
-                        <span>User 4</span>
-                        <p>This is a test message</p>
-                        </div>
-                    </div>
-                    <div class="status-dot"><i class="fas fa-circle"></i></div>
-                </a>
-                <hr>
-            </div>
+        <hr>
         </div>
     </section>
  </div>
