@@ -13,7 +13,7 @@
     <div class="wrapper">
         <section class="chat-area">
         <header>
-            <a href="#" class="back-icon"><i class="fas fa-arrow-left"></i></a>
+            <a href="users.php" class="back-icon"><i class="fas fa-arrow-left"></i></a>
             <img src="profile.png" alt="">
             <div class="details">
                 <span>Gerbuiker</span>
