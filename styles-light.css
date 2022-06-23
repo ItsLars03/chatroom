@@ -17,6 +17,10 @@ body {
     background-size: 100%;
 }
 
+.image-users {
+    height: 1vh;
+}
+
 .wrapper {
     background: #fff;
     width: 450px;
